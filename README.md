@@ -4,6 +4,15 @@
 
 总所周知，Alist是一款轻量好用的文件管理共享平台，可以基于Docker部署，官方文档中也给除了很多对外Api接口，在此我使用Java语言开发了一套操作Alist的工具类，使用方法特别简单，在下面给出示例代码以及对应功能。
 
+- 引入依赖（Maven）
+  ```xml
+  <dependency>
+    <groupId>io.github.1530624156</groupId>
+    <artifactId>AlistUtil</artifactId>
+    <version>1.0.0</version>
+  </dependency>
+  ```
+
 - 初始化AlistConfig对象 (所有方法的前提)
 
   ```java
