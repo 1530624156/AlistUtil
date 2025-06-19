@@ -6,7 +6,7 @@
 
     <groupId>io.github.1530624156</groupId>
     <artifactId>AlistUtil</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.1</version>
     <name>${project.groupId}:${project.artifactId}</name>
     <description>AlistUtil-Alist操作工具类</description>
     <url>https://github.com/1530624156/AlistUtil</url>
