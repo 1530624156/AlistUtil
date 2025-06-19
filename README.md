@@ -9,7 +9,7 @@
   <dependency>
     <groupId>io.github.1530624156</groupId>
     <artifactId>AlistUtil</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.1</version>
   </dependency>
   ```
 
